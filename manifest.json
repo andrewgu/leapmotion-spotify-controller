@@ -1,0 +1,58 @@
+{
+  "AppDescription": {
+    "de": "Remember to turn on the host app.",
+    "en": "Remember to turn on the host app.",
+    "es": "Remember to turn on the host app.",
+    "es-419": "Remember to turn on the host app.",
+    "fr": "Remember to turn on the host app.",
+    "it": "Remember to turn on the host app.",
+    "nl": "Remember to turn on the host app.",
+    "pl": "Remember to turn on the host app.",
+    "zh-Hant": "Remember to turn on the host app."
+  },
+  "AppIcon": {
+    "18x18": "images/icons/icon-18x18.png",
+    "36x18": "images/icons/icon-36x18.png",
+    "32x32": "images/icons/icon-32x32.png",
+    "64x64": "images/icons/icon-64x64.png",
+    "128x128": "images/icons/icon-128x128.png",
+    "300x300": "images/icons/icon-300x300.png"
+  },
+  "AppName": {
+    "de": "Leap Motion remote controller client",
+    "en": "Leap Motion remote controller client",
+    "es": "Leap Motion remote controller client",
+    "es-419": "Leap Motion remote controller client",
+    "fr": "Leap Motion remote controller client",
+    "it": "Leap Motion remote controller client",
+    "nl": "Leap Motion remote controller client",
+    "pl": "Leap Motion remote controller client",
+    "zh-Hant": "Leap Motion remote controller client"
+  },
+  "BundleIdentifier": "lps-controller-client",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "RequiredPermissions": [
+    "http://localhost:15678"
+  ],
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "de",
+    "en",
+    "es",
+    "es-419",
+    "fr",
+    "it",
+    "nl",
+    "pl",
+    "zh-Hant"
+  ],
+  "VendorIdentifier": "com.andrewgu"
+}
